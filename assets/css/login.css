@@ -7,6 +7,12 @@ body {
   margin-bottom: 19px; }
   .brand-wrapper .logo {
     height: 37px; }
+    .form-group{
+      font-size: 2rem;
+    }
+#email, #password, #login {
+  font-size: 18px;
+}
 
 .login-card {
   border: 0;
@@ -21,7 +27,7 @@ body {
     -o-object-fit: cover;
        object-fit: cover; }
   .login-card .card-body {
-    padding: 85px 60px 60px; }
+    padding: 75px 60px 60px 140px; }
     @media (max-width: 422px) {
       .login-card .card-body {
         padding: 35px 24px; } }
@@ -77,5 +83,6 @@ body {
   .login-card-footer-nav a {
     font-size: 14px;
     color: #919aa3; }
+    
 
 /*# sourceMappingURL=login.css.map */
