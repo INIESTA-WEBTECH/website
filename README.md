@@ -1,6 +1,6 @@
 ## Don't push the code until you test it in your local machine
 
-## Those who face trouble just [text me](https://wa.me/9064541984?text=urlencodedtext)
+## Those who face trouble just [text me](https://wa.me/+919064541984?text=urlencodedtext)
 
 
 
