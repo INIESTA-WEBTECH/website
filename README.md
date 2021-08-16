@@ -1,6 +1,6 @@
 ## Don't push the code until you test it in your local machine
 
-## Those who face trouble just [text me](https://wa.me/+918389046987?text=Sir trouble!!)
+## Those who face trouble just [text me](https://wa.me/+918389046987?text=Sir!!)
 
 
 
