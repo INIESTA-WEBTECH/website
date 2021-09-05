@@ -464,7 +464,6 @@ input[type=number] {
 /* ----------------------------Career Section-------------------------------- */
 /* Main Content */
 .mainContent{
-    text-align: center;
     display: grid;
     /* overflow: hidden !important; */
     
@@ -549,6 +548,7 @@ input[type=number] {
 }
 .content-section .content .button{
     margin-top: 30px;
+    text-align: center;
 }
 .content-section .content .button:hover{
     transform: scale(1.1);
@@ -588,6 +588,7 @@ input[type=number] {
 .image-section1{
     float: left;
     width: 40%;
+    z-index: -1;
 }
 .content-section1 .content .button:hover{
     transform: scale(1.1);
@@ -609,6 +610,7 @@ input[type=number] {
 }
 .content-section1 .content .button{
     margin-top: 30px;
+    text-align: center;
 }
 .content-section1 .content .button a{
     background-color: #2b599e;
@@ -660,6 +662,7 @@ input[type=number] {
 }
 .content-section2 .content .button{
     margin-top: 30px;
+    text-align: center;
 }
 .content-section2 .content .button a{
     background-color: #2b599e;
